@@ -1,0 +1,16 @@
+button{
+      background-color: #100834;   
+      color:white ;      
+}
+
+button:hover{
+               background-color: #0a0934;   
+               color:white ;      
+         }
+
+         img{
+            width: 100%;
+         }
+         h1{
+            color: #ffffff;
+         }
