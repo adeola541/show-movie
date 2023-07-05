@@ -1,0 +1,22 @@
+Developing a movie app with Angular,  utilize various tools, UI libraries, and guidelines to enhance the development process and create an intuitive user interface.
+
+ Here are some  tools, UI libraries, and guidelines:
+
+1. Angular CLI: Start your project with Angular CLI. It provides a command-line interface to scaffold and manage Angular projects, making it easy to generate components, services, modules, and more.
+
+2. Angular Material: Angular Material is a UI component library that follows the Material Design guidelines. It offers a wide range of pre-built components, such as cards, buttons, dialogs, and sliders, to create a visually appealing and consistent UI for movie app.
+
+3. Bootstrap: If prefer using Bootstrap for UI, can integrate it into Angular project. And can install Bootstrap and its dependencies via npm, and then utilize its CSS classes and JavaScript plugins to design movie app.
+
+5. FlexLayout: FlexLayout is a powerful CSS flexbox layout library for Angular. It helps create flexible and responsive layouts, allowing to easily arrange and align elements in movie app.
+
+6. RxJS: RxJS is a reactive programming library that is heavily used in Angular applications. It enables you to work with asynchronous data streams, handle events, and manage state in a more streamlined and efficient manner.
+
+7. TypeScript: TypeScript is the recommended language for Angular development. It is a superset of JavaScript that adds static typing, improved tooling, and enhanced IDE support. Utilizing TypeScript helps catch errors early and provides better code readability and maintainability.
+
+8. Prettier: Use Prettier to enforce code quality and formatting standards. Configure them in Angular project to maintain a consistent code style and catch potential errors.
+
+9. Responsive Design: Ensure that your movie app is responsive and works well on various screen sizes. Use media queries and responsive design principles to adapt UI to different devices and orientations.
+
+10. Angular Style Guide: Follow the official Angular Style Guide (https://angular.io/guide/styleguide) for best practices in structuring Angular project, naming conventions, component architecture, and more. Adhering to the style guide promotes code consistency and readability.
+
